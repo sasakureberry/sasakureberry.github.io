@@ -5,7 +5,7 @@ const CONFIG = {
   mailDomain: "gmail.com",
   // 販売サイトのサークルページURL（決まるまでは空のまま）
   shops: {
-    dlsite: "",
+    dlsite: "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01081329.html",
   },
 };
 // ==============================
